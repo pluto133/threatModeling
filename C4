@@ -1,0 +1,8 @@
+C4
+
+上下文（Context）
+容器（Container）
+组件（Component）
+代码（Code）
+To create these maps of your code, you first need a common set of abstractions to create a ubiquitous language to use to describe the static structure of a software system. The C4 model considers the static structures of a software system in terms of containers (applications, data stores, microservices, etc.), components, and code. It also considers the people who use the software systems that we build.
+
