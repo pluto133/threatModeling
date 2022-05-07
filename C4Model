@@ -6,3 +6,4 @@ C4
 代码（Code）
 To create these maps of your code, you first need a common set of abstractions to create a ubiquitous language to use to describe the static structure of a software system. The C4 model considers the static structures of a software system in terms of containers (applications, data stores, microservices, etc.), components, and code. It also considers the people who use the software systems that we build.
 
+![IMG](https://imgopt.infoq.com/fit-in/1200x2400/filters:quality(80)/filters:no_upscale()/articles/C4-architecture-model/en/resources/c4-4-1529935843626.jpg)
