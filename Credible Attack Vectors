@@ -1,0 +1,26 @@
+At some essential level, much of an ARA is focused as an attempt to enumerate the complete set of credible attack vectors (CAVs). If you recall from Chapter 2, a credible attack vector was defined as follows:
+
+Credible attack vector: A credible threat exercising an exploit on an exposed
+
+vulnerability.
+
+Recalling the risk term discussion from Chapter 4, a CAV encapsulates the three threat sub-terms into a single expression:
+
+• Threat
+• Exposure
+• Vulnerability
+
+Each of these terms is likewise composed of details that were explained in Chapter 4. If you don’t feel comfortable with CAV, in particular, 
+and computer security risk, in general, you may want to review Chapter 4 before you proceed.
+
+Risk is the critical governing principle that underlies the entire risk assessment and threat modeling process. Ultimately, we must mitigate 
+those computer attacks that are likely to impinge upon the use of the system under assessment and upon efforts to obtain the objectives of the 
+organization. As my friend, Anurag “Archie” Agrawal, says, “[threat modeling is] all about risk. . . .” Still, you will find that “risk” is not 
+mentioned as much as priorities.
+
+As you walk through the process, filtering and prioritizing, you will be calculating risk. Although a formal risk calculation can be, and often is, 
+a marker of a mature security architecture practice, by itself, simply understanding the risks is only one goal for an ARA and threat model. We also 
+need to know which risks can be treated and which cannot, and produce an achievable set of requirements that will get implemented. Risk is
+
+the information that drives these decisions, but it is not the sole end result of the ATASM process. For this reason, risk calculation is built into 
+the steps of ATASM and underlies much of the process, rather than being a separate and distinct calculation exercise.
