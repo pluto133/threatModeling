@@ -1,8 +1,7 @@
-At some essential level, much of an ARA is focused as an attempt to enumerate the complete set of credible attack vectors (CAVs). If you recall from Chapter 2, a credible attack vector was defined as follows:
+At some essential level, much of an architecture risk assessment (ARA) is focused as an attempt to enumerate the complete set of credible attack vectors (CAVs). If you recall from Chapter 2, 
+a credible attack vector was defined as follows:
 
-Credible attack vector: A credible threat exercising an exploit on an exposed
-
-vulnerability.
+Credible attack vector: A credible threat exercising an exploit on an exposed vulnerability.
 
 Recalling the risk term discussion from Chapter 4, a CAV encapsulates the three threat sub-terms into a single expression:
 
